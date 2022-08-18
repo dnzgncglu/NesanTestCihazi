@@ -1,0 +1,12 @@
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\bin\Debug\TestCihaziDeniz.exe.config
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\bin\Debug\TestCihaziDeniz.exe
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\bin\Debug\TestCihaziDeniz.pdb
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.csproj.AssemblyReference.cache
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.Form1.resources
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.Properties.Resources.resources
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.csproj.GenerateResource.cache
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.csproj.CoreCompileInputs.cache
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.exe
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.pdb
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.Form2.resources
+C:\Users\hdeni\source\repos\TestCihaziDeniz\TestCihaziDeniz\obj\Debug\TestCihaziDeniz.Form3.resources
